@@ -1,0 +1,25 @@
+body{
+    margin: 0%;
+   background: linear-gradient(to left,rgb(133, 158, 255),rgb(143, 87, 155)) ;
+}
+
+div{
+    margin: auto;
+    padding-left: 50% ;
+}
+
+h1{
+    background: linear-gradient(to left, #f3da,#2daa);
+    width: 310px;
+}
+
+button{
+    margin-top: 29%;
+    margin-left: 29px;
+    background: linear-gradient(to left, #f3da,#2daa);
+    width: 200px;
+    height: 50px;
+    border: solid, 1px,;
+    border-radius: 20px;
+}
+
